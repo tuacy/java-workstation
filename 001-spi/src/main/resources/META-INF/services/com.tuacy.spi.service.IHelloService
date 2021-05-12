@@ -1,0 +1,2 @@
+com.tuacy.spi.service.impl.AHelloService
+com.tuacy.spi.service.impl.BHelloService
